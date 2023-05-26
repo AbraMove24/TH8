@@ -3,7 +3,6 @@
 title: "Lab3"
 author: "Abramov"
 date: "2023-05-26"
-output: html_document
 ---
 
 ## Задание 4: Обнаружение канала управления
