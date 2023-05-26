@@ -1,7 +1,7 @@
 ---
 title: "Lab1"
-author: "Tarasova"
-date: "2023-03-01"
+author: "Abramov"
+date: "2023-05-26"
 output: html_document
 ---
 
